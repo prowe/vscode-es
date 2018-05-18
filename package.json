@@ -1,7 +1,7 @@
 {
     "name": "vscode-es",
     "displayName": "vscode-es",
-    "description": "Elasticsearch support for VS Code",
+    "description": "Elasticsearch client for VS Code",
     "version": "0.0.1",
     "publisher": "prowe",
     "engines": {
